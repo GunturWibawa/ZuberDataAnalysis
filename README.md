@@ -4,7 +4,7 @@ Data Analysis in Zuber RideSharing Company
 
 The project assigned to me during the sixth sprint involves Collecting and Storing Data (SQL).
 
-Throughout this sprint, I delved into the intricacies of structured databases and learned the methodologies of retrieving data through SQL.
+Throughout this sprint, I dived into the complexity of structured databases and learned the methodologies of retrieving data through SQL.
 
 # **Project Insight**
 
